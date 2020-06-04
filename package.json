@@ -1,0 +1,20 @@
+{
+  "name": "electron-games-launcher",
+  "version": "1.0.0",
+  "description": "A games launcher built in electron js.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/smkoontz1/electron-games-launcher",
+  "keywords": [
+    "Electron",
+    "games",
+    "launcher"
+  ],
+  "author": "Steven Koontz",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^9.0.2"
+  }
+}
